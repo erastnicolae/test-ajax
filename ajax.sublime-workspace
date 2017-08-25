@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Bitacad/php/ajax"
+	],
+	"file_history":
+	[
+		"/E/Bitacad/php/ajax/index.php",
+		"/E/Programs/SublimeText.3.3126/Data/Packages/User/HTML/script.sublime-snippet",
+		"/E/Bitacad/php/blog/controllers/PostController.php",
+		"/E/Bitacad/php/blog/.htaccess",
+		"/E/Bitacad/php/blog/models/Post.php",
+		"/E/Bitacad/php/blog/views/post/index.php",
+		"/E/Bitacad/php/blog/views/post/_items.php",
+		"/E/Bitacad/php/blog/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/E/Bitacad/php/blog/vendor/yiisoft/yii2/helpers/Html.php",
+		"/E/Bitacad/php/blog/views/layouts/main.php",
+		"/E/Program Files/Php718/php.ini",
+		"/E/Bitacad/php/blog/views/post/view.php",
+		"/E/Bitacad/blog/views/layouts/main.php",
+		"/E/Bitacad/blog/.gitignore",
+		"/D/Xampp/php/php.ini",
+		"/E/Work/bitacad/python/kivy/myprj.py",
+		"/E/Work/bitacad/python/kivy/myprj.kv",
+		"/E/Work/bitacad/python/prj/myprj.py",
+		"/E/Work/bitacad/python/prj/myprj.kv",
+		"/E/Work/bitacad/php/mowes/www/030/framework/config.php",
+		"/E/Work/bitacad/php/mowes/www/030/framework/framework.class.php",
+		"/E/Work/bitacad/php/mowes/apache2/conf/httpd.conf",
+		"/E/Work/bitacad/php/mowes/php5/php.ini",
+		"/E/Work/bitacad/php/mowes/www/lo/.htaccess",
+		"/E/Work/bitacad/php/mowes/www/011/index.php",
+		"/E/Work/bitacad/php/mowes/apache2/logs/access.log",
+		"/E/Work/bitacad/php/mowes/www/011/framework/User.php",
+		"/E/Work/bitacad/php/mowes/www/011/.htaccess",
+		"/E/Work/bitacad/php/mowes/apache2/logs/error.log",
+		"/E/Work/bitacad/php/mowes/www/030/app/config/main.php",
+		"/E/Work/bitacad/php/mowes/www/030/index.php",
+		"/E/Work/bitacad/php/mowes/www/030/.htaccess",
+		"/E/Work/bitacad/php/mowes/www/020/.htaccess",
+		"/E/Work/bitacad/php/mowes/www/020/index.php",
+		"/E/Work/bitacad/php/mowes/www/012/.htaccess",
+		"/E/Work/bitacad/php/mowes/www/012/index.php",
+		"/E/Work/bitacad/php/mowes/www/012/ceva.php",
+		"/E/Work/bitacad/php/mowes/apache2/conf/extra/httpd-vhosts.conf",
+		"/E/Work/bitacad/php/mowes/www/012/.htaccess.php",
+		"/E/Work/easy2boot/Clover/usb/EFI/CLOVER/config.plist",
+		"/E/Work/easy2boot/Easy2Boot_v1.92DPMS/_ISO/Sample_MyE2B.cfg",
+		"/E/Work/mowes/www/fngcimm/config.php",
+		"/E/Work/mowes/www/fngcimm/index.php",
+		"/E/Work/mowes/www/fngcimm/include.php",
+		"/E/Work/mowes/www/fngcimm/fileloc.php",
+		"/E/Work/mowes/www/fngcimm/lib/classes/class.CmsRegularTaskHandler.php",
+		"/E/Work/bitacad.net/php/02/htdocs/framework/framework.class.php",
+		"/E/Work/bitacad.net/php/02/htdocs/index.php",
+		"/E/Work/bitacad.net/php/02/htdocs/public/js/jquery-3.1.0.min.js",
+		"/E/Work/bitacad.net/php/02/htdocs/app/config/main.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Bitacad\\php\\blog",
+			"E:\\Bitacad\\php\\blog\\vendor",
+			"E:\\Work\\bitacad\\php\\mowes\\apache2",
+			"E:\\Work\\bitacad\\php\\mowes\\php5",
+			"E:\\Work\\bitacad\\php\\mowes\\apache2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setalias('@web'",
+			"setalias('@app'",
+			"setalias",
+			"@web",
+			"@webroot",
+			"define",
+			"@web",
+			"@webroot",
+			"@app",
+			"datepicker",
+			"path",
+			"ROOT",
+			"DOCUMENT_ROOT",
+			"document_root",
+			"directory_separator",
+			"directory",
+			"echo",
+			"virtual",
+			"RewriteCond",
+			"mod_rewri",
+			"BOOTX",
+			"$CMS_INSTALL_PAGE =",
+			"$CMS_INSTALL_PAGE",
+			"CmsRegularTaskHandler",
+			"cat",
+			"prefix",
+			"clasa",
+			"cat",
+			"interface",
+			"This",
+			"pharagraph"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ajax.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"3",
+				"public\\js\\jquery-3.1.0.min.js"
+			],
+			[
+				"main",
+				"app\\config\\main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Bitacad\\php\\blog\\blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
